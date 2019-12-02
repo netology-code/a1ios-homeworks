@@ -4,6 +4,6 @@
 
 1. Практическое задание №2
 
-[Сслыка на задание](https://netology-code.github.io/a1ios-homeworks/task-2/FirstCourseSecondTask.zip)
+[Ссылка на задание](https://netology-code.github.io/a1ios-homeworks/task-2/FirstCourseSecondTask.zip)
 
 1. Практическое задание №3 (Курсовое задание)
