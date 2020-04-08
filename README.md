@@ -1,10 +1,9 @@
 # Материалы к курсу "Введение в iOS-разработку"
 
-1. Практическое задание №1
+1. [Практическое задание №1](https://github.com/netology-code/a1ios-homeworks/blob/master/1/FirstCourseFirstTask.zip)
 
-[Ссылка на задание](https://netology-code.github.io/a1ios-homeworks/task-1/FirstCourseSecondTask.zip)
+1. [Практическое задание №2] (https://github.com/netology-code/a1ios-homeworks/blob/master/2/FirstCourseSecondTask.zip)
 
-1. Практическое задание №2
+1. [Практическое задание №3] (https://github.com/netology-code/a1ios-homeworks/blob/master/3/FirstCourseThirdTask.zip)
 
-
-1. Практическое задание №3 (Курсовое задание)
+1. [Курсовой проект] (https://github.com/netology-code/a1ios-homeworks/blob/master/Final%20Task/FirstCourseFinalTask.zip)
