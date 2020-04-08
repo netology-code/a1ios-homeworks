@@ -1,4 +1,4 @@
-# Материалы к курсу "Введение в iOS-разработку"
+## Домашние задания
 
 1. [Практическое задание №1](https://github.com/netology-code/a1ios-homeworks/blob/master/1/FirstCourseFirstTask.zip)
 
