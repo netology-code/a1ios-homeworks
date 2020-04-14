@@ -10,4 +10,4 @@
 
 
 
-[Материалы из дополнительных разборов](https://github.com/netology-code/a1ios-homeworks/tree/master/Materials)
+[Дополнительные материалы](https://github.com/netology-code/a1ios-homeworks/tree/master/Materials)
