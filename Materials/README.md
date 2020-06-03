@@ -7,3 +7,5 @@
 
 ## Ссылки для A1IOS-4
 1. [Код для Подготовки к ДЗ1 (вебинар 14.05)](https://github.com/netology-code/a1ios-homeworks/blob/master/Materials/A1iOS-4_FirstCourseFirstTask_%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B0_%D0%BA_%D0%94%D0%97.zip)
+1. [Ссылка на Стек и Очередь](https://tproger.ru/translations/stacks-and-queues-for-beginners/)
+1. [Protocol-Oriented Programming in Swift](https://developer.apple.com/videos/play/wwdc2015/408/)
